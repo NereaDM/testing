@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Template to create bugs
-labels: bug
+labels: bug type:bug
 ---
 
 #### Steps to Reproduce:
